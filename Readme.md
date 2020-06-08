@@ -1,4 +1,4 @@
-PHI/TLG CD-ROM Documentation
+# PHI/TLG CD-ROM Documentation
 
 When I was writing [Diogenes](https://github.com/pjheslin/diogenes), I had no access to any documentation apart from the Beta Code manual which the TLG has always put on its website.  So all of the lower-level Diogenes code is the product of reverse engineering, which is why it is so poorly commented. (That is my excuse, at any rate.) I was figuring it out as I was going along, so I was never in a position to write definitive comments explaining what the code was doing.  Most of the comments, such as they are, express puzzlement rather than certainty.
 
